@@ -1,6 +1,6 @@
 <h2 align="center">Hello, my name is Paulo Telles and i am a brazilian Back-End Developer:</h2>
  <p align="center">
   <a >
-    <img src="https://skillicons.dev/icons?i=git,python,java,c#" />
+    <img src="https://skillicons.dev/icons?i=python,java,c#" />
   </a>
 </p>
